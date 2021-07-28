@@ -3,9 +3,9 @@
 
 - 🌱 I’m currently learning **React.js**
 
-- 📫 How to reach me **lucasrochadealmeida@hotmail.com**
+- 📫 How to reach me: **lucasrochadealmeida@hotmail.com**
 
-- ⚡ Fun fact **Always learning and drinking coffee :)**
+- ⚡ **Always learning and drinking coffee :)**
 
 
 <h3 align="left">Languages and Tools:</h3>
