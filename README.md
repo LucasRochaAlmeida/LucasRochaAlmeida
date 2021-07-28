@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **React.js**
 
-- 📫 How to reach me: **lucasrochadealmeida@hotmail.com**
+- 📫 How to reach me: **lucasrochadealmeida@hotmail.com** - Discord: **LucasRocha#1478**
 
 - ⚡ **Always learning and drinking coffee :)**
 
