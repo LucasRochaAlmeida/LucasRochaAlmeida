@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Lucas</h1>
-<h3 align="center">Fullstack developer from Brazil ><</h3>
 
 - 🌱 I’m currently learning **React.js**
 
